@@ -1,0 +1,167 @@
+/* ============ SMALL DEVICE ============  */
+
+@media (max-width: 575.98px) {
+    body{
+        overflow-x: hidden;
+    }
+    .navbar {
+        padding: 20px 0;
+    }
+    .navbar-brand {
+        transform: scale(0.9);
+    }
+    .banner-text h3 {
+        font-size: 26px;
+    }
+    .banner-text h1 {
+        font-size: 48px;
+    }
+    .right {
+        display: none !important; 
+    }
+    .left {
+        display: none !important; 
+    }
+    .banner-text {
+        padding-bottom: 35px;
+    }
+    .banner-button a {
+        width: 122px;
+        padding: 14px 0;
+        font-size: 14px;
+    }
+    #banner {
+        padding-top: 190px;
+        padding-bottom: 120px;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+    .common-title h3 {
+        font-size: 32px;
+    }
+    .common-title p {
+        font-size: 13px;
+        width: 100%;
+    }
+    #about .circle {
+        display: none;
+    }
+    #about .shape {
+       display: none;
+    }
+    #about p {
+        width: 100%;
+    }
+    .about-left {
+        padding: 39px 30px 45px 30px;
+        text-align: center !important;
+    }
+    .about-right {
+        padding: 39px 30px 45px 30px;
+        text-align: center !important;
+    }
+    .about-center {
+        width: 295px;
+        height: 295px;
+        margin: 20px 0;
+    }
+    .about-center-image {
+        height: 245px;
+        width: 245px;
+    }
+    #Portfolio {
+        padding: 85px 0;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+    .s-up {
+        display: none !important;
+    }
+    .s-down {
+        display: none !important;
+    }
+    .line {
+        display: none;
+    }
+    #testimonial-part {
+        padding: 90px 0;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+    .t-up {
+        display: none !important;
+    }
+    .t-down {
+        display: none !important;
+    }
+    .testLine {
+        display: none;
+    }
+    .test-details-shape {
+        display: none;
+    }
+    .testimonial-details img {
+        bottom: 50px;
+    }
+    .pricing-card {
+        margin-bottom: 20px;
+    }
+    #counter-part {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    .counter-details {
+        display: block;
+        transform: rotate(0deg);
+    }
+    .counter-item {
+        width: 100%;
+        margin-bottom: 20px;
+        transform: skew(0deg);
+    }
+    .counter-text {
+        transform: rotate(0deg);
+    }
+    .team-item {
+        margin-bottom: 20px;
+    }
+    .team-social-icon {
+        opacity: 1;
+        margin-top: 0;
+    }
+    .team-img-overlay {
+        display: none;
+    }
+    #partner {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    .partner-details {
+        display: block;
+        transform: rotate(0deg);
+    }
+    .partner-logo {
+        width: 100%;
+        transform: skew(0deg);
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .partners {
+        transform: rotate(0deg);
+    }
+    .footer-logo {
+        transform: rotate(0deg) skew(0deg);
+    }
+    .footer-logo img {
+        transform: rotate(0deg) skew(0deg);
+    }
+    .footer-item p {
+        margin-bottom: 45px;
+    }
+    .fi-line::after {
+        display: none;
+    }
+    .link-icons a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        margin: 0 5px;
+    }
+}
+
+/* ============ SMALL DEVICE ============  */
